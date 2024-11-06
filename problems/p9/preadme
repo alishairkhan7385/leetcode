@@ -1,0 +1,7 @@
+pallindrome
+The number read from either left to right or right to left sounds the same.
+
+Modulus with 10 obv to extract the digits one by one
+use those extracted digits to form a number which would be rev of actuall number.
+This way if both of the number are equall, then true else false
+
